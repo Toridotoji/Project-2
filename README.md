@@ -1,4 +1,4 @@
-# Tối Ưu Hóa Hiệu Quả Website Của Google Merchandise Store
+# Nâng Cao Hiệu Suất Bán Hàng Trên E-commerce Website Của Google Merchandise Store
 
 ## Mục lục
 
@@ -16,15 +16,11 @@
 
 ### Mục tiêu
 
-- Phân tích hành vi của user trên website
-  + Phân tích thông qua các chỉ số website traffic, average session duration hay bounce rate
-  + Xác định đặc điểm của tệp người dùng có giá trị cao
-- Xác định traffic source
-  + Đánh giá traffic source nào mang lại nhiều engaged user nhất
-  + Chú ý những phương tiện hoạt động kém hiệu quả
-- Tối ưu hóa conversion rate
-  + Phác họa customer journey để đánh giá những điểm drop-off
-  + 
+- Đánh giá tình hình kinh doanh hiện tại (thêm chuỗi thời gian) trên e-commerce website:
+  + Phân tích các chỉ số doanh thu, chi phí và conversion rate
+  + Xác định sản phẩm đóng góp 80% doanh thu
+- Xác định tệp khách hàng có giá trị cao và đặc điểm của họ
+(- Tạo dashboard trực quan cho mỗi mục tiêu trên)
 
 ### Dữ liệu
 
